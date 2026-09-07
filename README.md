@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I'm Sabine :)
 
-<!--
-**Sabine-A/Sabine-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently training in application development and using this space
+to learn, build small projects, and figure out where my stengths and particular interests lie.
 
-Here are some ideas to get you started:
+I'm interested in programming in general, so I'm not set on web development in particular. 
+I also enjoy working with PCs and networks — especially the
+hands-on side of setting things up and figuring out how everything works together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of coding, I work with 3D printers, mostly FDM and used to have a SLA printer as well. Not the biggest fan of those, because of the resin. 
+I've also recently started learning Blender to design parts and prints for my 3D printer. 
+
+Automation and robotics are topics I'm curious about too.
+
+I'm still exploring different areas and have a lot to learn, but that's also what I enjoy about it.
+
+## What I'm currently learning for my apprenticeship
+
+PHP · MySQL · JavaScript · HTML · CSS
+
+## What I also want to get into
+
+ Python · Blender · Robotics
