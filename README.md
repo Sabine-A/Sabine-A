@@ -19,4 +19,5 @@ PHP · MySQL · JavaScript · HTML · CSS
 
 ## What I also want to get into
 
- C · Python · Blender · Robotics
+ C ·  Python · Blender · Robotics · .NET-/C#
+ 
